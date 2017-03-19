@@ -4,6 +4,8 @@
 
 DEBUG=weekly npm start
 
+http://localhost:3000/
+
 ## 参考
 
 0. http://www.expressjs.com.cn/starter/generator.html
