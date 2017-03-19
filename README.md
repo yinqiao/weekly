@@ -8,4 +8,4 @@ DEBUG=weekly npm start
 
 0. http://www.expressjs.com.cn/starter/generator.html
 1. https://my.oschina.net/chenhao901007/blog/312367
-
+2. jade: https://segmentfault.com/a/1190000000357534#articleHeader6
